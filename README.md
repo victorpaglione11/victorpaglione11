@@ -7,7 +7,7 @@
 
 ### 🚀 Highlighted Project
 
-####  [Game Server](https://github.com/victorpaglione11/GameServer)
+####  [Low-latency Game Server(.Net + SignalR](https://github.com/victorpaglione11/GameServer)
 ####  [Auth Api](https://github.com/victorpaglione11/AuthAPI)
 ####  [Distributed Order System](https://github.com/victorpaglione11/event-driven-order-system)
 ####  [OSMRoadMeshChunkGenerator](https://github.com/victorpaglione11/OSMRoadMeshChunkGenerator) 
